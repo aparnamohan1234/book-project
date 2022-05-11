@@ -30,13 +30,13 @@
                 <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src=".https://cdn.elearningindustry.com/wp-content/uploads/2016/05/top-10-books-every-college-student-read-1024x640.jpeg.." class="d-block w-100" alt="...">
+                        <img height="300" width="250" src=".https://cdn.elearningindustry.com/wp-content/uploads/2016/05/top-10-books-every-college-student-read-1024x640.jpeg.." class="d-block w-100" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img src=".https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip.." class="d-block w-100" alt="...">
+                        <img height="300" width="250" src=".https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip.." class="d-block w-100" alt="...">
                       </div>
                       <div class="carousel-item">
-                        <img src="..https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEjbTYkkzaF7eWJhQ1nJVja7EBdf4RxiOsuFNjEmvUabOwGZdj4kOOD-bKib4iA2-cvNk&usqp=CAU." class="d-block w-100" alt="...">
+                        <img height="300" width="250" src="..https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEjbTYkkzaF7eWJhQ1nJVja7EBdf4RxiOsuFNjEmvUabOwGZdj4kOOD-bKib4iA2-cvNk&usqp=CAU." class="d-block w-100" alt="...">
                       </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
